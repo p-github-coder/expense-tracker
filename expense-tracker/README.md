@@ -1,16 +1,54 @@
-# React + Vite
+# 💰 Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive expense tracking application built with React that helps users manage their income and expenses, monitor their balance, and understand their spending habits.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Add income and expense transactions
+- Categorize transactions
+- Search transactions
+- Filter transactions by type
+- Delete transactions with confirmation
+- Calculate total income
+- Calculate total expenses
+- Calculate current balance
+- View spending by category
+- View monthly income, expenses, and net balance
+- Persist transactions using local storage
+- Responsive design for desktop and mobile
 
-## React Compiler
+## 🛠️ Built With
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
+- ESLint
+- Browser Local Storage
 
-## Expanding the ESLint configuration
+## 📚 What I Learned
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Building this project helped me practice and understand:
+
+- React components
+- Props
+- State management with `useState`
+- Event handling
+- Controlled forms
+- Conditional rendering
+- Array methods such as `map()`, `filter()`, and `reduce()`
+- Component composition
+- Data calculations
+- Responsive CSS
+- Local storage
+- Building a complete application from scratch
+
+## 💻 Getting Started
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/expense-tracker.git
